@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "<3",
-    introTitle: 'Nguyễn Hoàng Linh',
+    introTitle: 'Do Tuan Dat',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
