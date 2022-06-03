@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "<3",
-    introTitle: 'Cac ebe dang iu 12E1',
+    introTitle: 'Nguyễn Hoàng Linh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: '',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Mắt cậu thật đẹp. Đừng khóc nha (T_T)',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Đi ngủ đi. Ngủ ngonnn <3',
     btnAccept: 'Okiiiii lun <3',
